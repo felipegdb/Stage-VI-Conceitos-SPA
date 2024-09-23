@@ -1,0 +1,23 @@
+.background-home {
+    background-image: url('/images/mountains-universe-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background-universe {
+    background-image: url('/images/mountains-universe-2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background-exploration {
+    background-image: url('/images/mountains-universe-3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background-error {
+    background-image: url('/images/mountains-error.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
